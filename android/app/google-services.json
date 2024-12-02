@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1080056210508",
+    "firebase_url": "https://smartcity-9bb3d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartcity-9bb3d",
+    "storage_bucket": "smartcity-9bb3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080056210508:android:825f6391442698dfc800e9",
+        "android_client_info": {
+          "package_name": "com.smartcity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyVOTmctJxxZqrOxUy6Js_dH6Q5l3_kIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
